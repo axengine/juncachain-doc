@@ -1,10 +1,3 @@
----
-description: >-
-This page is a reduced version of the [Solidity docs
-site](https://solidity.readthedocs.io/en/v0.4.24/) that is adapted to
-JuncaChain to avoid overwhelming information.
----
-
 # Solidity
 
 Solidity is a contract-oriented, high-level language for implementing smart contracts. It was influenced by Python and JavaScript and is designed to target the Ethereum Virtual Machine \(EVM\) both Ethereum and JuncaChain.
